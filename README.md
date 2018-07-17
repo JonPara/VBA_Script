@@ -2,7 +2,7 @@
 
 ### Background
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
+In this project I've used VBA scripting to analyze real stock market data..
 
 ### Files
 
@@ -16,17 +16,17 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Easy
 
-* Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
+* Created a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 
-* You will also need to display the ticker symbol to coincide with the total volume.
+* Also need to display the ticker symbol to coincide with the total volume.
 
-* Your result should look as follows.
+* My results looked as follwed:
 
 ![easy_solution](Images/easy_solution.png)
 
-### Moderate
 
-* Create a script that will loop through all the stocks and take the following info.
+
+* Created a script that will loop through all the stocks and take the following info.
 
    * Yearly change from what the stock opened the year at to what the closing price was.
 
@@ -42,13 +42,13 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![moderate_solution](Images/moderate_solution.png)
 
-### Hard
 
-* Your solution will include everything from the moderate challenge.
 
-* Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+* My solution included everything from the moderate challenge.
 
-* Solution will look as follows.
+* Also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+
+* Solution looked as follows:
 
 ![hard_solution](Images/hard_solution.png)
 
@@ -64,24 +64,3 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
-### Submission
-
-* Submit a screen shot each year of your results on the Multi Year Stock Data.
-
-* Submit your VBA Scripts as separate files.
-
-## Submission
-
-* To submit please submit the link in homework submission for the week in Bootcampspot. 
- 
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-* After everything has been saved, create a sharable link and submit that to [https://bootcampspot-v2.com/](https://bootcampspot-v2.com/). 
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2017. All Rights Reserved.
