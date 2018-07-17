@@ -52,15 +52,7 @@ In this project I've used VBA scripting to analyze real stock market data..
 
 ![hard_solution](Images/hard_solution.png)
 
-### CHALLENGE
 
-* Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
+* Maked the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
 
-* This can be applied to any of the difficulties.
-
-### Other Considerations
-
-* Use the sheet `alphabetical_testing.xlsx` while developing your code. This dataset is smaller and will allow you to test faster.
-
-* Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
